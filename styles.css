@@ -1,0 +1,37 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    width: 1440px;
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    margin: 80px auto;
+}
+.attribution { font-size: 11px; text-align: center; }
+ a { color: hsl(228, 45%, 44%); }
+ .back {
+    background-color: white;
+    height: 500px;
+    width: 340px;
+    margin: auto;
+    border-radius: 20px;
+    padding-bottom: 10px;
+ }
+ .QR {
+    position: relative;
+    width: 300px;
+    margin: 20px 10px ;
+    border-radius: 20px;
+ }
+ 
+ p {
+    position: relative;
+    width: 80%;
+    font-size: 15px;
+    margin: 10px auto;
+    color: grey;
+}
+
+h2 {
+    position: relative;
+    width: 80%;
+    margin: auto;
+}
