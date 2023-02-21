@@ -1,2 +1,0 @@
-# QRCode
-Challenge QR Code
